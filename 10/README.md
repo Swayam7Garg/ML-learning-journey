@@ -7,8 +7,7 @@ and Orange Curve (Malic acid):<br>
 The scales are very different, which is bad for many ML algorithms<br>
 Alcohol dominates because of its larger numeric range.<br>
 <h3>After Standard Scaling-></h3><br>
-Both features now have:
-Mean ≈ 0
-Standard deviation ≈ 1<br>
-Even though the shapes (distribution) remain similar, they are now on the same scale, which is critical for:
+Now the data is between 0 and 1
+and Alcohol and malic acid are now in the same scale
+
 
