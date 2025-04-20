@@ -1,4 +1,4 @@
-![Before and After scaling](image.png)
+![Before and after normalization](image-1.png)
 here we can see that there are 2 plots one before and one after scaling <br>
 <h3>Before scaling-></h3><br>
 we can clearly see that Blue Curve (Alcohol):
